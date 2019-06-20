@@ -3,7 +3,7 @@
     <!-- Main画像 -->
     <div class="top-image">
         <div class="main">
-        <img src="<?php echo get_template_directory_uri();?>/img/visual_1_pc.png" alt="" class="background" width="1024px" height="448px"><br/>
+        <img src="<?php header_image(); ?>" alt="" class="background" width="1024px" height="448px"><br/>
         <p>進化し続ける「街」アメリカンビレッジマガジン</p>
         </div>
         <img src="<?php echo get_template_directory_uri();?>/img/logo.png" alt="" class="logo" width="242px" height="242px">

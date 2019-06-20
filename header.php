@@ -15,9 +15,6 @@
         <!-- HEADER -->
         <header>
                 <ul class="header-right">
-                    <li class="menu01">Menu01</a>
-                    <li class="menu02">Menu02</p>
-                    <li class="menu03">Menu03</p>
-                    <li class="menu04">Menu04</a>
+                    <?php wp_nav_menu( 'header-menu' ); ?>
                 </ul>
         </header>
