@@ -23,7 +23,6 @@
         <a class="readMore" href="">Read More</a>
              </li>
          <?php endwhile;?>
-
      
           </ul>
       </div>
